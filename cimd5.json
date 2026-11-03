@@ -1,5 +1,5 @@
 {
- "client_id": "https://raw.githubusercontent.com/awley-del/cimd-poc/main/cimd.json",
+ "client_id": "https://raw.githubusercontent.com/awley-del/cimd-poc/main/cimd5.json",
  "redirect_uris": [
   "http://lvh.me:1234/cb"
  ],
@@ -11,6 +11,5 @@
   "code"
  ],
  "token_endpoint_auth_method": "none",
- "client_name": "Nhost scope-contrast PoC",
- "client_uri": "https://lvh.me:1234"
+ "client_name": "Nhost scope-contrast PoC"
 }

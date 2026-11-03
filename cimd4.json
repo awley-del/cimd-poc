@@ -1,0 +1,15 @@
+{
+  "client_id": "https://raw.githubusercontent.com/awley-del/cimd-poc/main/cimd4.json",
+  "client_name": "Notes Sync",
+  "redirect_uris": [
+    "http://make-127.0.0.1-and-159.13.54.212-rr.1u.ms/cb"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "scope": "openid graphql:role:user_mcp",
+  "token_endpoint_auth_method": "none"
+}

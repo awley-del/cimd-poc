@@ -1,0 +1,15 @@
+{
+ "client_id": "https://raw.githubusercontent.com/awley-del/cimd-poc/main/cimd.json",
+ "redirect_uris": [
+  "http://lvh.me:1234/cb"
+ ],
+ "scope": "openid",
+ "grant_types": [
+  "authorization_code"
+ ],
+ "response_types": [
+  "code"
+ ],
+ "token_endpoint_auth_method": "none",
+ "client_name": "Nhost Security Test"
+}
